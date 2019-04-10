@@ -1,6 +1,6 @@
 # AdoDotNet
 
-# Manipulation d'une BDDvia C# #
+# Manipulation d'une BDD via C# #
 
 Nous avons travaillé sur la base de données suivante :
 
@@ -10,8 +10,9 @@ Les trois classes ci-dessous ont servi à interagir avec la BDD :
 
 ![table.png](https://image.noelshack.com/fichiers/2019/14/3/1554296802-table.png)
 
--"Anniversaire" et "TableAnniversaire" pour les modifications sr la BDD
--"ConnexionJoyeuxAnniversaire" pour effectuer la connexion à la base de données.
+- "Anniversaire" et "TableAnniversaire" pour les modifications sr la BDD.
+
+- "ConnexionJoyeuxAnniversaire" pour effectuer la connexion à la base de données.
 
 ![connexion.png](https://image.noelshack.com/fichiers/2019/14/3/1554297023-connexion.png)
 
@@ -21,4 +22,4 @@ Notamment la méthode CompteOccurences(), qui nous permet de compter le nombre d
 
 ![occurence.png](https://image.noelshack.com/fichiers/2019/14/3/1554299383-occurence.png)
 
-## Ce TP nous a permis de nous familiariser avec les notion d'accès à une base de donnée via un objet en C#
+## Ce TP nous a permis d'apprendre les notion d'accès à une base de donnée via un objet en C#
