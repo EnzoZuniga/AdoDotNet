@@ -1,0 +1,2 @@
+U:\Slam 3\DevoirSQL\DevoirSQL\obj\x86\Debug\DevoirSQL.csprojResolveAssemblyReference.cache
+C:\Ado\DevoirSQL\DevoirSQL\obj\x86\Debug\DevoirSQL.csprojResolveAssemblyReference.cache
